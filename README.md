@@ -1,8 +1,9 @@
-welcome to coffe-junkie project
+#welcome to coffe-junkie project
 
-technologies used: html
+##technologies used: html
+-html
 
-html concepts:
+###html concepts:
 1. heading tags
 2. paragraph tags
 3. img tags
@@ -10,3 +11,4 @@ html concepts:
 5. table tags
 6. lists
 7. internal and external page navigations
+8. input tags
